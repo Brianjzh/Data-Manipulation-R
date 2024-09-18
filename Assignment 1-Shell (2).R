@@ -1,6 +1,3 @@
-#Programming 1 - Assignment 1
-#Your name(s):
-
 #The data of over 1000 eBay auctions is provided in the file eBayAcution.csv. 
 #Use RStudio to study this marketplace. 
 #(Source: The data is adapted from this book: https://www.dataminingbook.com/book/r-2nd-edition-2023)
